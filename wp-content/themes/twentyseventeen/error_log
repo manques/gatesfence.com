@@ -1,0 +1,8 @@
+[06-Feb-2018 00:05:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/twentyseventeen/page.php on line 18
+[06-Feb-2018 00:05:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/twentyseventeen/page.php on line 18

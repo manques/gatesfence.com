@@ -1,0 +1,84 @@
+[19-Sep-2017 05:37:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[19-Sep-2017 05:37:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[23-Sep-2017 06:27:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[23-Sep-2017 06:27:48 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[23-Sep-2017 12:13:54 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[23-Sep-2017 12:13:55 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[26-Sep-2017 13:15:46 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php on line 12
+[26-Sep-2017 13:15:47 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php on line 12
+[29-Sep-2017 15:06:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[29-Sep-2017 15:06:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[30-Sep-2017 10:01:09 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/header.php on line 12
+[30-Sep-2017 10:01:09 Etc/GMT] PHP Fatal error:  Call to undefined function language_attributes() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/header.php on line 12
+[09-Oct-2017 02:21:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[09-Oct-2017 02:21:20 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[09-Oct-2017 04:55:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[11-Oct-2017 05:28:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[11-Oct-2017 05:28:24 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[15-Oct-2017 13:47:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[15-Oct-2017 13:47:09 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[23-Oct-2017 14:21:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[26-Oct-2017 12:08:04 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php on line 12
+[26-Oct-2017 12:08:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/archive.php on line 12
+[03-Nov-2017 08:50:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[03-Nov-2017 08:50:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[09-Nov-2017 14:32:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[09-Nov-2017 14:32:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[20-Nov-2017 01:35:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[20-Nov-2017 01:35:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/404.php on line 10
+[06-Feb-2018 00:05:36 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/footer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/footer.php on line 1
+[06-Feb-2018 00:05:36 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/footer.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/gatesfence.com/wp-content/themes/vantage/footer.php on line 1
